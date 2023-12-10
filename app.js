@@ -219,4 +219,4 @@ function winGame() {
   flashColor();
   turnCounter.innerHTML = "WIN!";
   on = false;
-}
+} // testing github commits and so on
