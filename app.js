@@ -106,7 +106,7 @@ function three() {
 function four() {
   if (noise) {
     let audio = document.getElementById("clip4");
-    audio.play();
+    audio.play(); //it's just my training of how to work with github pushes and so on.
   }
   noise = true;
   bottomright.style.backgroundColor = "lightskyblue";
